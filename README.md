@@ -13,3 +13,4 @@
 |[Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/unique-in-order) | 6 kyu      |
 |[Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/take-ten-minutes-walk) | 6 kyu      |
 |[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/stop-gninnips-my-sdrow) | 6 kyu      |
+|[Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/array-diff) | 6 kyu      |
