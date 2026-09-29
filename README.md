@@ -15,3 +15,4 @@
 |[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/stop-gninnips-my-sdrow) | 6 kyu      |
 |[Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/array-diff) | 6 kyu      |
 |[Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/find-unique-number) | 6 kyu      |
+|[Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/break-camel-case) | 6 kyu      |
