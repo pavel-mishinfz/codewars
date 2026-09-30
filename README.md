@@ -18,3 +18,4 @@
 |[Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/break-camel-case) | 6 kyu      |
 |[Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/detect-pangram) | 6 kyu      |
 |[Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/tribonacci-sequence) | 6 kyu      |
+|[Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/delete-nth) | 6 kyu      |
