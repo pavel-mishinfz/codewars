@@ -22,3 +22,4 @@
 |[Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/highest-scoring-word) | 6 kyu      |
 |[Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/meeting) | 6 kyu      |
 |[Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/valid-braces) | 6 kyu      |
+|[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/multiples-of-3-or-5) | 6 kyu      |
