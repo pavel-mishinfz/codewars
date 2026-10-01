@@ -21,3 +21,4 @@
 |[Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/delete-nth) | 6 kyu      |
 |[Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/highest-scoring-word) | 6 kyu      |
 |[Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/meeting) | 6 kyu      |
+|[Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/valid-braces) | 6 kyu      |
