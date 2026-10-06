@@ -24,3 +24,4 @@
 |[Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/valid-braces) | 6 kyu      |
 |[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/6-kyu/multiples-of-3-or-5) | 6 kyu      |
 |[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/string-incrementer) | 5 kyu      |
+|[Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/pete-the-baker) | 5 kyu      |
