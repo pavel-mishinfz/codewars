@@ -27,3 +27,4 @@
 |[Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/pete-the-baker) | 5 kyu      |
 |[Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/moving-Zeros-to-the-end) | 5 kyu      |
 |[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/rot13) | 5 kyu      |
+|[Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/tic-tac-toe-checker) | 5 kyu      |
