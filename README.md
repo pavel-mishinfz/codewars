@@ -26,3 +26,4 @@
 |[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/string-incrementer) | 5 kyu      |
 |[Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/pete-the-baker) | 5 kyu      |
 |[Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/moving-Zeros-to-the-end) | 5 kyu      |
+|[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/rot13) | 5 kyu      |
