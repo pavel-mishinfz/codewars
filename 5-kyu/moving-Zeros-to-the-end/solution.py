@@ -10,3 +10,8 @@ def move_zeros(lst):
             lst[i - count_zeros] = lst[i]
             lst[i] = 0
     return lst
+
+# use default tools
+# def move_zeros(lst):
+#     digits_without_zeros = ''.join([str(x) for x in lst if x > 0])
+#     return [int(x) for x in digits_without_zeros.ljust(len(lst), '0')]
