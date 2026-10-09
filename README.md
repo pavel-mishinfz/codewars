@@ -29,3 +29,4 @@
 |[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/rot13) | 5 kyu      |
 |[Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/tic-tac-toe-checker) | 5 kyu      |
 |[Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/maximum-subarray-sum) | 5 kyu      |
+|[Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/directions-reduction) | 5 kyu      |
