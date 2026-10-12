@@ -33,3 +33,4 @@
 |[Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/greed-is-good) | 5 kyu      |
 |[Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/pick-peaks) | 5 kyu      |
 |[Sum of Pairs](https://www.codewars.com/kata/54d81488b981293527000c8f)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/sum-of-pairs) | 5 kyu      |
+|[Best travel](https://www.codewars.com/kata/best-travel)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/best-travel) | 5 kyu      |
