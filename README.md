@@ -31,3 +31,4 @@
 |[Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/maximum-subarray-sum) | 5 kyu      |
 |[Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/directions-reduction) | 5 kyu      |
 |[Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/greed-is-good) | 5 kyu      |
+|[Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/pick-peaks) | 5 kyu      |
