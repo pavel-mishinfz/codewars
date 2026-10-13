@@ -35,3 +35,4 @@
 |[Sum of Pairs](https://www.codewars.com/kata/54d81488b981293527000c8f)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/sum-of-pairs) | 5 kyu      |
 |[Best travel](https://www.codewars.com/kata/best-travel)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/best-travel) | 5 kyu      |
 |[Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/josephus-permutation) | 5 kyu      |
+|[Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/is-my-friend-cheating) | 5 kyu      |
