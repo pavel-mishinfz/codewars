@@ -36,3 +36,4 @@
 |[Best travel](https://www.codewars.com/kata/best-travel)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/best-travel) | 5 kyu      |
 |[Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/josephus-permutation) | 5 kyu      |
 |[Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/is-my-friend-cheating) | 5 kyu      |
+|[Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/last-digit-of-a-large-number) | 5 kyu      |
