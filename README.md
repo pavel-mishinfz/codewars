@@ -39,3 +39,4 @@
 |[Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/last-digit-of-a-large-number) | 5 kyu      |
 |[Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/primes-in-numbers) | 5 kyu      |
 |[Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/gap-in-primes) | 5 kyu      |
+|[Reverse Inside Parentheses (Inside Parentheses)](https://www.codewars.com/kata/5e07b5c55654a900230f0229)| [Python](https://github.com/pavel-mishinfz/codewars/tree/main/5-kyu/reverse-inside-parentheses) | 5 kyu      |
